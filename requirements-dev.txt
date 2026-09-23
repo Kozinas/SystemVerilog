@@ -1,0 +1,3 @@
+-r requirements.txt
+pyslang==11.0.0
+pypdf==6.19.0
